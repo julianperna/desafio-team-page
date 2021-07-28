@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&family=Poppins:wght@600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.creative {
+  font-size: 36px;
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  letter-spacing: -0.045em;
+  color: #9b8383;
+  margin-bottom: 87,5px;
+  padding: 0;
+  line-height: 48px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  text-align: center;
+  display: flex;
+}
+
+.footer-p {
+  color: #A9A9A9;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  justify-content: center;
+  padding: 0;
+  margin-top: 308px;
+  margin-bottom: 24px;
+}
+.footer-p a{
+  color: #333333;
+}
