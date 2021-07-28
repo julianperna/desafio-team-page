@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{ mi equipo }</h1>
+<h1 align="center">{ Mi Equipo }</h1>
 
 <div align="center">
    Solución para un  desafio de <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
