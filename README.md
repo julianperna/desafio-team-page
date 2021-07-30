@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{ Mi Equipo }</h1>
+<h1 align="center">{ Equipo de trabajo}</h1>
 
 <div align="center">
    Solución para un  desafio de <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -49,4 +49,4 @@ Esta aplicación / sitio se creó como un envío a un desafío [DevChallenges](h
 ## Contacto
 
 - Website [https://julianperna.github.io/desafio-team-page/](https://julianperna.github.io/desafio-team-page/)
-- GitHub [@julianperna](https://{github.com/julianperna})
+- GitHub [julianperna](https://github.com/julianperna)
