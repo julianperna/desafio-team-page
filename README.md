@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://julianperna.github.io/desafio-404-error/">
+    <a href="https://julianperna.github.io/desafio-team-page//">
       Demo
     </a>
     <span> | </span>
@@ -35,7 +35,7 @@
 
 ## Vision General
 
-![screen](https://user-images.githubusercontent.com/70858276/127235245-dbbe4e73-47ce-415b-ac16-102e1557fc27.png)
+![captura](https://user-images.githubusercontent.com/70858276/127702202-824dced9-4a0e-4f6f-9652-3dedd579884f.png)
 
 ### Construido con
 
@@ -48,5 +48,5 @@ Esta aplicación / sitio se creó como un envío a un desafío [DevChallenges](h
 
 ## Contacto
 
-- Website [https://julianperna.github.io/desafio-404-error/](https://julianperna.github.io/desafio-404-error/)
+- Website [https://julianperna.github.io/desafio-team-page//](https://julianperna.github.io/desafio-team-page//)
 - GitHub [@julianperna](https://{github.com/julianperna})
