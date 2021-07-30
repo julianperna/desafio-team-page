@@ -48,5 +48,5 @@ Esta aplicación / sitio se creó como un envío a un desafío [DevChallenges](h
 
 ## Contacto
 
-- Website [https://julianperna.github.io/desafio-team-page//](https://julianperna.github.io/desafio-team-page/)
+- Website [https://julianperna.github.io/desafio-team-page/](https://julianperna.github.io/desafio-team-page/)
 - GitHub [@julianperna](https://{github.com/julianperna})
